@@ -21,7 +21,8 @@ _run on terminal or CMD or powershell_
   * settings.py
   * spiders/yourprojectname.py
 
-### How to write code ?
-
+### How to work on python ?
+1. Setting parameters in `Items.py`
+2. 
 ### Reference
 _https://www.maxlist.xyz/2018/08/25/python_scrapy_ptt/_
