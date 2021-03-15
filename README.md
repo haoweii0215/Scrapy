@@ -6,6 +6,8 @@
 
 ### How to create project from `Scrapy` ?
 - Move to folder
-`cd FolderName`
+
+  `cd FolderName`
 - Create `Scrapy` project
-`scrapy startproject yourprojectname`
+
+  `scrapy startproject yourprojectname`
