@@ -33,9 +33,11 @@ _run on terminal or CMD or powershell_
   `scrapy crawl yourprojectname`
 - Run and output
 
-  `scrapy crawl yourprojectname -o output.json` _Output json_
+  _json:_
+  `scrapy crawl yourprojectname -o output.json` 
   
-  `scrapy crawl yourprojectname -o output.csv` _Output csv_
+  _csv:_
+  `scrapy crawl yourprojectname -o output.csv`
   
 ### Reference
 _https://www.maxlist.xyz/2018/08/25/python_scrapy_ptt/_
