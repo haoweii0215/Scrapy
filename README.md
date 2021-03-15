@@ -28,7 +28,8 @@ _run on terminal or CMD or powershell_
 
 ### How to run ?
 _run on terminal or CMD or powershell_
-_projectname = variables in `spiders / crawler.py`
+
+_projectname = name in `spiders / crawler.py`_
 - Run the py
 
   `scrapy crawl projectname`
