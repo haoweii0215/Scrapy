@@ -4,8 +4,8 @@
 ### How to install package ?
 `python3 -m pip install Scrapy`
 
-### How to create project from `Scrapy` ?
-#### run on terminal or CMD or powershell
+### How to create project ?
+run on terminal or CMD or powershell
 - Move to folder 
 
   `cd FolderName`
