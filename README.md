@@ -11,3 +11,5 @@
 - Create `Scrapy` project
 
   `scrapy startproject yourprojectname`
+- After inputting, some documents and settings will be created automatically. The data structure is as follows :
+    print("Hello, " + input())
