@@ -24,5 +24,4 @@ _run on terminal or CMD or powershell_
 ### How to write code ?
 
 ### Reference
-
 _https://www.maxlist.xyz/2018/08/25/python_scrapy_ptt/_
