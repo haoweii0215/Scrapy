@@ -23,6 +23,18 @@ _run on terminal or CMD or powershell_
 
 ### How to work on python ?
 1. Setting parameters in `Items.py`
-2. 
+2. Writing crawler code in `spiders / yourprojectname.py`
+3. Setting database infomation in `settings.py` and `pipelines.py`
+
+### How to run ?
+_run on terminal or CMD or powershell_
+- Run the py
+
+  `scrapy crawl yourprojectname`
+- Run and output
+
+  Output json `scrapy crawl yourprojectname -o output.json` 
+  Output csv  `scrapy crawl yourprojectname -o output.csv`
+  
 ### Reference
 _https://www.maxlist.xyz/2018/08/25/python_scrapy_ptt/_
