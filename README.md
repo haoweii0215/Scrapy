@@ -33,10 +33,8 @@ _run on terminal or CMD or powershell_
   `scrapy crawl yourprojectname`
 - Run and output
 
-  _json:_
   `scrapy crawl yourprojectname -o output.json` 
   
-  _csv:_
   `scrapy crawl yourprojectname -o output.csv`
   
 ### Reference
