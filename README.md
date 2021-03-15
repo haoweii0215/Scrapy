@@ -7,8 +7,9 @@
 ### How to create project from `Scrapy` ?
 - Move to folder
 
-`cd FolderName`
+  `cd FolderName`
 - Create `Scrapy` project
 
-`scrapy startproject yourprojectname`
+  `scrapy startproject yourprojectname`
 - After inputting, some documents and settings will be created automatically. The data structure is as follows :
+    1110
