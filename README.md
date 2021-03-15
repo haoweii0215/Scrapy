@@ -5,3 +5,7 @@
 `python3 -m pip install Scrapy`
 
 ### How to create project from `Scrapy` ?
+- Move to folder
+`cd FolderName`
+- Create `Scrapy` project
+`scrapy startproject yourprojectname`
