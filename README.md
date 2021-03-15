@@ -30,7 +30,8 @@ _run on terminal or CMD or powershell_
 _run on terminal or CMD or powershell_
 - Run the py
 
-    scrapy crawl
+  `scrapy crawl`
+    aaa
 - Run and output
 
   `scrapy crawl yourprojectname -o output.json` 
