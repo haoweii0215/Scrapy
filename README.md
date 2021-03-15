@@ -23,7 +23,7 @@ _run on terminal or CMD or powershell_
 
 ### How to work on python ?
 - Setting parameters in `Items.py`
-- Writing crawler code in `spiders / crawler.py`   (  _ created by yourself _  )
+- Creating your crawler code in `spiders / crawler.py`
 - Setting database infomation in `settings.py` and `pipelines.py`
 
 ### How to run ?
