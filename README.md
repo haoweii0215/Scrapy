@@ -19,7 +19,7 @@ _run on terminal or CMD or powershell_
   * middlewares.py
   * pipelines.py
   * settings.py
-  * spiders/yourprojectname.py
+  * spiders / yourprojectname.py
 
 ### How to work on python ?
 1. Setting parameters in `Items.py`
