@@ -5,7 +5,7 @@
   `python3 -m pip install Scrapy`
 
 ### How to create project ?
-  run on terminal or CMD or powershell
+    run on terminal or CMD or powershell
 - Move to folder 
 
   `cd FolderName`
