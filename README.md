@@ -2,10 +2,10 @@
 ## Web Crawler using `Scrapy` package on python 3.x
 
 ### How to install package ?
-`python3 -m pip install Scrapy`
+  `python3 -m pip install Scrapy`
 
 ### How to create project ?
-run on terminal or CMD or powershell
+  run on terminal or CMD or powershell
 - Move to folder 
 
   `cd FolderName`
