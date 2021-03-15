@@ -30,7 +30,7 @@ _run on terminal or CMD or powershell_
 #### Run and output
     scrapy crawl projectname -o output.json
     scrapy crawl projectname -o output.csv
-  _projectname : name in `spiders / crawler.py`_
+  _projectname : variables name in `spiders / crawler.py`_
 
 ### Reference
 _https://www.maxlist.xyz/2018/08/25/python_scrapy_ptt/_
