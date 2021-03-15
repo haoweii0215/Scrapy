@@ -28,15 +28,15 @@ _run on terminal or CMD or powershell_
 
 ### How to run ?
 _run on terminal or CMD or powershell_
+_projectname = variables in `spiders / crawler.py`
 - Run the py
 
-  `scrapy crawl`
-    aaa
+  `scrapy crawl projectname`
 - Run and output
 
-  `scrapy crawl yourprojectname -o output.json` 
+  `scrapy crawl projectname -o output.json` 
   
-  `scrapy crawl yourprojectname -o output.csv`
+  `scrapy crawl projectname -o output.csv`
   
 ### Reference
 _https://www.maxlist.xyz/2018/08/25/python_scrapy_ptt/_
